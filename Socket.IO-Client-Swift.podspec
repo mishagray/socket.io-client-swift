@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Socket.IO-Client-Swift"
+  s.deprecated_in_favor_of = 'SocketIOClientSwift'
   s.module_name  = "SocketIOClientSwift"
   s.version      = "5.5.0"
   s.summary      = "Socket.IO-client for iOS and OS X"
